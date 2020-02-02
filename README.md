@@ -1,7 +1,6 @@
-# gate_level_schematics
-
 # Exhibit 0
 Fibonacci-sequence generator implemented in [Logisim](http://www.cburch.com/logisim/ "Logisim").
+![Alt](https://github.com/brekekekex/gate_level_schematics/blob/master/test/fibonacci.GIF)
 
 ## Implementation
 * Schematized with discrete built-in logic gates only
@@ -36,7 +35,7 @@ Fibonacci-sequence generator implemented in [Logisim](http://www.cburch.com/logi
 # Exhibit 1
 Hamming distance calculator implemented in [Logisim](http://www.cburch.com/logisim/ "Logisim").
 
-![](/test/hamming.gif)
+![Alt](https://github.com/brekekekex/gate_level_schematics/blob/master/test/hamming.GIF)
 
 ## Implementation
 * Schematized with discrete built-in logic gates only
